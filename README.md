@@ -232,4 +232,4 @@ Warframe is the official full version available for free download, with all feat
 Start your adventure in Warframe today. **Download now and join the fight!**
 
 ---
-**Last updated:** 2026-11-14 05:20:32 UTC
+**Last updated:** 2026-11-14 12:38:59 UTC
